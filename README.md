@@ -12,4 +12,3 @@ See [Screwdriver documentation for SonarQube configuration](https://docs.screwdr
 * [Examples from the SonarQube website](https://github.com/SonarSource/sonar-scanning-examples)
 * [SonarQube docs](https://docs.sonarqube.org/display/SCAN)
 
-
